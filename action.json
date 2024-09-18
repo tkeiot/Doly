@@ -15,9 +15,18 @@
 	"value":"tivi"
 	},
 	{
-	"value":"ti vi"
+	"value":"máy tính"
+	},
+	{
+	"value":"công tắc"
+	},
+	{
+	"value":"ổ cắm"
+	},
+	{
+	"value":"cửa"
 	}
-
+	
     ],
 
     "on": {
@@ -103,6 +112,10 @@
             "value": "nhỏ đi"
         }
     ],
+     "temp": [{
+            "value": "nhiệt độ"
+        }
+    ],
     "play": [{
             "value": "phát"
         },
@@ -141,6 +154,12 @@
         },
         {
             "value": "ngừng phát"
+        },
+        {
+            "value": "ngủ đi"
+        },
+        {
+            "value": "đi ngủ"
         }
     ],
     "send": [{

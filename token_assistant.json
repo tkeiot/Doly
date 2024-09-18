@@ -1,0 +1,7 @@
+[
+    {
+        "token_id":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJlODA4Y2RjMzRkODc0MjM1OGNlNjg3MmViOTAyZmYxOSIsImlhdCI6MTcyNDAzNjc3MiwiZXhwIjoyMDM5Mzk2NzcyfQ.1BsHLfWR1TLDrENMoPCJMkBlkusszmMgqCUrf2m6G84",
+        "home_assistant_url": "http://192.168.68.24:8123/api",
+	"value":"true"
+    }
+]   
